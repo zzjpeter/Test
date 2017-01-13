@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53c17769-94d7-486d-8125-a315c6713d50++3780",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "53c17769-94d7-486d-8125-a315c6713d50++3780" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53c17769-94d7-486d-8125-a315c6713d50++3780" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9848F7C5-EE08-4918-A118-A505BC601555",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53c17769-94d7-486d-8125-a315c6713d50++3780" : "1520_cp_record_client_release_828632\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AliSDKDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AlipaySDK4Standard\/iOSDemo\/AliSDKDemo\/AliSDKDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/junqiang.sjq@svnhz.alipay.net\/svn\/mspc_iphone_msdk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53c17769-94d7-486d-8125-a315c6713d50++3780"
+    }
+  ]
+}
